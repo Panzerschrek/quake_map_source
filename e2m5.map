@@ -12768,14 +12768,6 @@
 "spawnflags"	"1536"
 }
 {
-"classname"	"item_health"
-"origin"	"-16 512 400"
-}
-{
-"origin"	"-16 848 400"
-"classname"	"item_health"
-}
-{
 "classname"	"monster_shambler"
 "origin"	"-1040 2944 -48"
 "spawnflags"	"768"

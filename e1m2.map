@@ -10410,7 +10410,7 @@
 }
 {
 "light"	"150"
-"origin"	"-96 -320 560"
+"origin"	"-96 -320 528"
 "classname"	"light"
 }
 {
